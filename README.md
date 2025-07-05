@@ -6,7 +6,7 @@ A machine learning project that categorizes news articles from headlines using a
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Overview
-[DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) is a distilled version of [BERT](https://huggingface.co/docs/transformers/model_doc/bert) that retains 97% of BERT's language understanding whilst being 60% smaller and significantly faster. The pre-trained model has been trained on the [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset) from Kaggle and consists of around 210k headlines.
+[DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) is a distilled version of [BERT](https://huggingface.co/docs/transformers/model_doc/bert) that retains 97% of BERT's language understanding whilst being 60% smaller and significantly faster. The pre-trained model has been trained on the [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset) from Kaggle which consists of around 210k headlines.
 
 ## Screenshots
 
